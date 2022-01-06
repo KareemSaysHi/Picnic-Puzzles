@@ -1,0 +1,3 @@
+Cheese Basket: One of the harder puzzles I've designed, not because of the number of moves it requires, but because of how interesting and unique each needed movement is.  The last piece that is put in can be "cheesed" (put in the basket in an unintended way) to avoid a lot of rotations, but I still think it's a really interesting way to put it in so I left it in the design.  If you want a challenge, try to find both ways!
+
+This puzzle take a total of 15 moves, with 5 rotations (the intended way).  The "cheese" route takes 12 moves and removes 3 needed rotations, but it's just as satisfying to find and solve.
