@@ -1,0 +1,7 @@
+Galaxy Basket Hints:
+
+1. The first piece to be inserted is the biggest piece
+
+2. Make sure you've assembled the pieces into a 3x3 cube outside the basket before this hint.  Now that the largest piece is in, try to insert each piece individually into the position it should be in the basket.  One should be much harder than the others, it requires a tricky rotation and some movement from the first piece to get in.  That's the piece that goes in second.
+
+3. The biggest piece might have to move again to fit another piece
