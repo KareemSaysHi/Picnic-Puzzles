@@ -1,5 +1,5 @@
 # Picnic-Puzzles
-UPDATE: The solutions to the MIT puzzles have been posted!
+**UPDATE: The solutions to the MIT puzzles have been posted!  You can find them [here](https://youtube.com/playlist?list=PLhoVTbjnRHWkcRfY_PQeYTZDrkUQBRits) or in the MIT Puzzles folder**
 
 *If you're here from MIT Admissions and you've recieved my puzzles, check out the "MIT Puzzles Additional Info, Hints, and Solutions" folder.
 
