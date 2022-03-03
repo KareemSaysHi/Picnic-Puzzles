@@ -1,6 +1,7 @@
 # Picnic-Puzzles
+UPDATE: The Solutions to the MIT puzzles have been posted!
 
-*If you're here from MIT Admissions and you've recieved my puzzles, check out the "MIT Puzzles Additional Info, Hints, and Solutions" folder
+*If you're here from MIT Admissions and you've recieved my puzzles, check out the "MIT Puzzles Additional Info, Hints, and Solutions" folder.
 
 These are picnic puzzles I design in my free time, inspired by the Akaki's picnic series. If you finish mine, go check out Akaki's puzzles.
 
